@@ -4,6 +4,8 @@
 
 The **Online Test Management System** is built using the CodeIgniter PHP framework, providing an efficient and user-friendly platform to manage online tests, quizzes, and evaluations. It leverages MySQL for secure database management and ensures a responsive design across devices.
 
+Admin Login Details email: admin@mail.com pwd: Password@123
+
 ## Developed By
 Alekhya Penta
 
@@ -19,4 +21,14 @@ Alekhya Penta
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP (CodeIgniter Framework)
 - **Database**: MySQL
-- **Development Tools**: XAMPP, phpMyAdmin, Postman
+- **Development Tools**: XAMPP, phpMyAdmin
+
+- ## This are some Outputs of the Project:
+![image](1.png)
+![image](2.png)
+![image](3.png)
+![image](4.png)
+![image](5.png)
+![image](6.png)
+![image](7.png)
+![image](8.png)
